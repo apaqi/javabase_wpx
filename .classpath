@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="array_study"/>
+	<classpathentry kind="src" path="classload_study"/>
+	<classpathentry kind="src" path="innerclass_study"/>
+	<classpathentry kind="src" path="collection_study"/>
+	<classpathentry kind="src" path="151javasuggest"/>
+	<classpathentry kind="src" path="enum_study"/>
+	<classpathentry kind="src" path="generic"/>
+	<classpathentry kind="src" path="multiThread"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="src" path="basic"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

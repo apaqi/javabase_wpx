@@ -1,0 +1,4 @@
+http://blog.csdn.net/coslay/article/details/45542853
+
+RecursiveAction：用于任务没有返回结果的场景。
+RecursiveTask：用于任务有返回结果的场景。
